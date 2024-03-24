@@ -1,3 +1,12 @@
 body {
   font-family: "Roboto", sans-serif;
 }
+
+header {
+  background: linear-gradient(180deg, #c4b6fd, #93acfc);
+}
+
+.navbar-brand,
+.text-primary {
+  color: #0a58ca !important;
+}
