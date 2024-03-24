@@ -9,4 +9,30 @@ header {
 .navbar-brand,
 .text-primary {
   color: #0a58ca !important;
+  border: none;
+}
+
+.nav-link {
+  font-weight: 500;
+}
+
+.btn-primary {
+  background-color: #0a58ca !important;
+} 
+
+.nav-link:hover {
+  color: #0a58ca;
+}
+
+p {
+  font-size: 18px;
+}
+
+.btn.primary:hover {
+  background-color: #257dfd !important;
+}
+
+.blue-bg {
+  background-color: #0a58ca;
+  color: #fff;
 }
