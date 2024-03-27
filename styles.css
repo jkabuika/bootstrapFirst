@@ -18,6 +18,11 @@ header {
 
 .btn-primary {
   background-color: #0a58ca !important;
+  border: none;
+} 
+
+.btn-primary:hover {
+  background-color: #0a58ca !important;
 } 
 
 .nav-link:hover {
